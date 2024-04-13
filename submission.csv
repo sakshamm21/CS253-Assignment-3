@@ -1,0 +1,1375 @@
+ID,Education
+0,Graduate
+1,8th Pass
+2,Graduate
+3,Graduate Professional
+4,Graduate
+5,12th Pass
+6,Graduate Professional
+7,Graduate
+8,Graduate
+9,8th Pass
+10,12th Pass
+11,Graduate
+12,10th Pass
+13,Post Graduate
+14,8th Pass
+15,Doctorate
+16,Post Graduate
+17,Post Graduate
+18,Post Graduate
+19,Post Graduate
+20,Graduate
+21,8th Pass
+22,Post Graduate
+23,Graduate
+24,Graduate Professional
+25,Graduate Professional
+26,10th Pass
+27,10th Pass
+28,Graduate
+29,Graduate Professional
+30,Doctorate
+31,Post Graduate
+32,Graduate Professional
+33,Graduate
+34,10th Pass
+35,Graduate
+36,8th Pass
+37,Graduate Professional
+38,Graduate
+39,Post Graduate
+40,8th Pass
+41,Post Graduate
+42,Graduate
+43,Post Graduate
+44,Graduate
+45,Post Graduate
+46,8th Pass
+47,Graduate Professional
+48,Literate
+49,10th Pass
+50,12th Pass
+51,Graduate Professional
+52,Graduate
+53,12th Pass
+54,Graduate Professional
+55,Graduate
+56,12th Pass
+57,12th Pass
+58,12th Pass
+59,10th Pass
+60,Post Graduate
+61,8th Pass
+62,Graduate
+63,Graduate
+64,12th Pass
+65,Graduate
+66,Graduate
+67,Graduate
+68,Doctorate
+69,10th Pass
+70,Graduate Professional
+71,Graduate
+72,12th Pass
+73,Graduate
+74,Graduate
+75,10th Pass
+76,Doctorate
+77,Graduate
+78,Post Graduate
+79,Graduate Professional
+80,Others
+81,Graduate Professional
+82,Post Graduate
+83,Graduate Professional
+84,Post Graduate
+85,8th Pass
+86,Post Graduate
+87,Graduate Professional
+88,Graduate Professional
+89,10th Pass
+90,Post Graduate
+91,12th Pass
+92,12th Pass
+93,Graduate
+94,Graduate
+95,Graduate
+96,Graduate Professional
+97,10th Pass
+98,Graduate
+99,Graduate
+100,12th Pass
+101,Graduate
+102,Graduate
+103,Graduate
+104,Post Graduate
+105,Post Graduate
+106,Graduate Professional
+107,Graduate
+108,Post Graduate
+109,10th Pass
+110,10th Pass
+111,Graduate
+112,8th Pass
+113,Graduate
+114,12th Pass
+115,12th Pass
+116,10th Pass
+117,Post Graduate
+118,10th Pass
+119,Post Graduate
+120,Graduate
+121,Graduate
+122,Post Graduate
+123,Graduate
+124,10th Pass
+125,12th Pass
+126,Post Graduate
+127,12th Pass
+128,Graduate
+129,Graduate
+130,Graduate Professional
+131,8th Pass
+132,Graduate
+133,Graduate
+134,Post Graduate
+135,Post Graduate
+136,12th Pass
+137,10th Pass
+138,Graduate
+139,10th Pass
+140,10th Pass
+141,Graduate Professional
+142,Graduate Professional
+143,Post Graduate
+144,Doctorate
+145,12th Pass
+146,8th Pass
+147,12th Pass
+148,Post Graduate
+149,Graduate
+150,Graduate Professional
+151,Graduate
+152,Graduate
+153,8th Pass
+154,Graduate
+155,Graduate
+156,Graduate Professional
+157,8th Pass
+158,Graduate
+159,12th Pass
+160,10th Pass
+161,Graduate
+162,12th Pass
+163,Graduate
+164,12th Pass
+165,Post Graduate
+166,Others
+167,12th Pass
+168,Graduate Professional
+169,Post Graduate
+170,Graduate Professional
+171,Graduate
+172,Post Graduate
+173,Post Graduate
+174,12th Pass
+175,12th Pass
+176,12th Pass
+177,Post Graduate
+178,Post Graduate
+179,Post Graduate
+180,Graduate
+181,Graduate Professional
+182,Graduate
+183,Graduate
+184,Post Graduate
+185,Graduate Professional
+186,8th Pass
+187,10th Pass
+188,12th Pass
+189,Graduate Professional
+190,12th Pass
+191,Graduate Professional
+192,12th Pass
+193,Post Graduate
+194,Graduate
+195,Graduate
+196,Post Graduate
+197,12th Pass
+198,12th Pass
+199,Post Graduate
+200,Graduate
+201,10th Pass
+202,Graduate
+203,12th Pass
+204,Post Graduate
+205,Graduate
+206,Graduate
+207,Graduate Professional
+208,Graduate Professional
+209,12th Pass
+210,10th Pass
+211,12th Pass
+212,Post Graduate
+213,Graduate
+214,Graduate Professional
+215,Post Graduate
+216,10th Pass
+217,Post Graduate
+218,10th Pass
+219,10th Pass
+220,12th Pass
+221,Doctorate
+222,Post Graduate
+223,Graduate
+224,12th Pass
+225,12th Pass
+226,Post Graduate
+227,12th Pass
+228,Post Graduate
+229,10th Pass
+230,Post Graduate
+231,Graduate
+232,Post Graduate
+233,10th Pass
+234,Literate
+235,Graduate
+236,12th Pass
+237,12th Pass
+238,10th Pass
+239,Graduate
+240,Post Graduate
+241,Graduate Professional
+242,Graduate
+243,12th Pass
+244,Post Graduate
+245,Post Graduate
+246,Graduate
+247,Post Graduate
+248,Post Graduate
+249,Graduate
+250,Graduate
+251,12th Pass
+252,Graduate Professional
+253,12th Pass
+254,Graduate
+255,12th Pass
+256,Graduate
+257,12th Pass
+258,Graduate
+259,Post Graduate
+260,Graduate Professional
+261,12th Pass
+262,Post Graduate
+263,Graduate Professional
+264,Graduate
+265,Post Graduate
+266,Post Graduate
+267,Graduate
+268,Post Graduate
+269,10th Pass
+270,Graduate
+271,Graduate Professional
+272,Doctorate
+273,Post Graduate
+274,Graduate
+275,12th Pass
+276,Graduate
+277,Graduate
+278,10th Pass
+279,Post Graduate
+280,Graduate Professional
+281,12th Pass
+282,Graduate
+283,Graduate
+284,Graduate
+285,10th Pass
+286,Post Graduate
+287,Graduate Professional
+288,Graduate Professional
+289,Graduate
+290,Post Graduate
+291,Post Graduate
+292,12th Pass
+293,Graduate
+294,12th Pass
+295,Graduate Professional
+296,Graduate
+297,Graduate Professional
+298,Post Graduate
+299,8th Pass
+300,Post Graduate
+301,Post Graduate
+302,Post Graduate
+303,Post Graduate
+304,12th Pass
+305,Graduate Professional
+306,Post Graduate
+307,Graduate Professional
+308,10th Pass
+309,Graduate Professional
+310,Post Graduate
+311,8th Pass
+312,Graduate
+313,Graduate
+314,Post Graduate
+315,Post Graduate
+316,Others
+317,Graduate
+318,Graduate
+319,Graduate
+320,12th Pass
+321,10th Pass
+322,Graduate
+323,12th Pass
+324,Graduate
+325,Post Graduate
+326,10th Pass
+327,12th Pass
+328,10th Pass
+329,Doctorate
+330,Graduate
+331,Graduate
+332,Graduate
+333,Graduate
+334,10th Pass
+335,Graduate Professional
+336,10th Pass
+337,Post Graduate
+338,Graduate
+339,Graduate
+340,Post Graduate
+341,Post Graduate
+342,10th Pass
+343,Graduate Professional
+344,10th Pass
+345,Graduate
+346,Others
+347,Graduate
+348,Graduate Professional
+349,Post Graduate
+350,Graduate Professional
+351,Post Graduate
+352,Graduate
+353,Post Graduate
+354,10th Pass
+355,Graduate Professional
+356,10th Pass
+357,Doctorate
+358,Post Graduate
+359,Post Graduate
+360,12th Pass
+361,Graduate
+362,Post Graduate
+363,Graduate
+364,10th Pass
+365,12th Pass
+366,Graduate
+367,10th Pass
+368,Graduate
+369,Graduate
+370,Post Graduate
+371,Graduate
+372,Graduate Professional
+373,10th Pass
+374,Doctorate
+375,Graduate Professional
+376,Graduate
+377,Graduate
+378,10th Pass
+379,Graduate
+380,12th Pass
+381,12th Pass
+382,10th Pass
+383,Post Graduate
+384,10th Pass
+385,Graduate
+386,10th Pass
+387,Graduate Professional
+388,Post Graduate
+389,12th Pass
+390,Graduate Professional
+391,Graduate
+392,12th Pass
+393,Graduate Professional
+394,10th Pass
+395,Graduate
+396,12th Pass
+397,Graduate Professional
+398,Graduate Professional
+399,10th Pass
+400,Graduate
+401,Graduate
+402,Graduate Professional
+403,Post Graduate
+404,10th Pass
+405,Graduate
+406,Graduate
+407,Graduate
+408,Graduate Professional
+409,12th Pass
+410,12th Pass
+411,Graduate Professional
+412,Graduate Professional
+413,12th Pass
+414,Graduate
+415,12th Pass
+416,Graduate
+417,10th Pass
+418,Post Graduate
+419,Graduate
+420,Graduate
+421,Graduate
+422,12th Pass
+423,Post Graduate
+424,Graduate
+425,Post Graduate
+426,12th Pass
+427,12th Pass
+428,12th Pass
+429,Graduate
+430,Graduate
+431,Post Graduate
+432,Graduate Professional
+433,12th Pass
+434,Graduate Professional
+435,Graduate Professional
+436,Post Graduate
+437,Graduate
+438,Post Graduate
+439,Post Graduate
+440,Post Graduate
+441,10th Pass
+442,10th Pass
+443,Graduate
+444,Graduate Professional
+445,Post Graduate
+446,Graduate
+447,Graduate
+448,Post Graduate
+449,8th Pass
+450,12th Pass
+451,Graduate
+452,12th Pass
+453,Graduate
+454,Post Graduate
+455,Doctorate
+456,12th Pass
+457,10th Pass
+458,10th Pass
+459,12th Pass
+460,Post Graduate
+461,Graduate Professional
+462,Graduate Professional
+463,12th Pass
+464,Graduate
+465,12th Pass
+466,Graduate Professional
+467,Graduate
+468,Graduate
+469,Graduate
+470,Graduate
+471,Graduate Professional
+472,Graduate
+473,8th Pass
+474,12th Pass
+475,12th Pass
+476,Post Graduate
+477,12th Pass
+478,Graduate
+479,12th Pass
+480,12th Pass
+481,Graduate
+482,Graduate Professional
+483,10th Pass
+484,Post Graduate
+485,Post Graduate
+486,Post Graduate
+487,Graduate
+488,Graduate
+489,12th Pass
+490,12th Pass
+491,Graduate
+492,Post Graduate
+493,Post Graduate
+494,10th Pass
+495,Post Graduate
+496,Graduate
+497,Post Graduate
+498,Post Graduate
+499,12th Pass
+500,12th Pass
+501,Graduate Professional
+502,Graduate
+503,Post Graduate
+504,Graduate
+505,12th Pass
+506,12th Pass
+507,8th Pass
+508,10th Pass
+509,Post Graduate
+510,12th Pass
+511,Graduate
+512,Graduate
+513,8th Pass
+514,Literate
+515,12th Pass
+516,Post Graduate
+517,12th Pass
+518,Post Graduate
+519,Post Graduate
+520,Graduate Professional
+521,8th Pass
+522,Post Graduate
+523,12th Pass
+524,12th Pass
+525,12th Pass
+526,Graduate
+527,Graduate Professional
+528,Graduate
+529,Graduate Professional
+530,Post Graduate
+531,Doctorate
+532,12th Pass
+533,Graduate Professional
+534,Graduate
+535,Graduate
+536,Graduate Professional
+537,Post Graduate
+538,Graduate
+539,12th Pass
+540,Graduate
+541,Graduate
+542,Graduate Professional
+543,Post Graduate
+544,Graduate
+545,Post Graduate
+546,Post Graduate
+547,Graduate
+548,Graduate
+549,Graduate Professional
+550,12th Pass
+551,12th Pass
+552,Doctorate
+553,Graduate Professional
+554,Graduate
+555,12th Pass
+556,Post Graduate
+557,Graduate Professional
+558,Graduate Professional
+559,Graduate
+560,Graduate Professional
+561,Graduate
+562,Post Graduate
+563,12th Pass
+564,Graduate
+565,Graduate
+566,Others
+567,Graduate
+568,Graduate
+569,Post Graduate
+570,Graduate
+571,10th Pass
+572,Post Graduate
+573,12th Pass
+574,12th Pass
+575,Graduate
+576,Graduate
+577,Graduate
+578,12th Pass
+579,12th Pass
+580,Doctorate
+581,Graduate Professional
+582,10th Pass
+583,Post Graduate
+584,Graduate
+585,Graduate Professional
+586,Graduate Professional
+587,Graduate
+588,Graduate
+589,12th Pass
+590,Graduate
+591,Graduate Professional
+592,12th Pass
+593,Post Graduate
+594,Graduate
+595,Post Graduate
+596,Graduate
+597,Graduate
+598,10th Pass
+599,Graduate Professional
+600,Graduate
+601,12th Pass
+602,Graduate
+603,Post Graduate
+604,10th Pass
+605,Graduate Professional
+606,Graduate
+607,12th Pass
+608,Graduate Professional
+609,Post Graduate
+610,Graduate
+611,12th Pass
+612,Post Graduate
+613,Graduate
+614,Graduate
+615,Graduate Professional
+616,8th Pass
+617,12th Pass
+618,10th Pass
+619,Graduate
+620,Graduate Professional
+621,Graduate Professional
+622,12th Pass
+623,Graduate
+624,Graduate Professional
+625,Graduate
+626,Graduate
+627,Post Graduate
+628,Graduate
+629,Graduate Professional
+630,Graduate
+631,Post Graduate
+632,Graduate Professional
+633,12th Pass
+634,12th Pass
+635,Others
+636,Post Graduate
+637,Others
+638,Post Graduate
+639,Graduate
+640,Post Graduate
+641,Graduate
+642,10th Pass
+643,10th Pass
+644,12th Pass
+645,Graduate Professional
+646,Graduate
+647,Post Graduate
+648,Post Graduate
+649,Graduate Professional
+650,12th Pass
+651,12th Pass
+652,Graduate
+653,Post Graduate
+654,Graduate
+655,12th Pass
+656,Post Graduate
+657,Post Graduate
+658,12th Pass
+659,Post Graduate
+660,Post Graduate
+661,Graduate Professional
+662,Graduate
+663,Post Graduate
+664,Graduate Professional
+665,Graduate
+666,Post Graduate
+667,Post Graduate
+668,Graduate
+669,12th Pass
+670,Graduate
+671,Graduate
+672,12th Pass
+673,12th Pass
+674,12th Pass
+675,Graduate
+676,Graduate
+677,Graduate
+678,Graduate Professional
+679,Doctorate
+680,Post Graduate
+681,Graduate
+682,Post Graduate
+683,Graduate Professional
+684,12th Pass
+685,12th Pass
+686,Post Graduate
+687,Graduate
+688,10th Pass
+689,12th Pass
+690,Graduate
+691,Post Graduate
+692,Graduate
+693,12th Pass
+694,12th Pass
+695,Graduate
+696,12th Pass
+697,Post Graduate
+698,Graduate Professional
+699,10th Pass
+700,Graduate
+701,Graduate Professional
+702,Post Graduate
+703,Graduate
+704,Post Graduate
+705,Graduate Professional
+706,Graduate
+707,12th Pass
+708,Graduate
+709,Graduate
+710,Post Graduate
+711,Graduate Professional
+712,Graduate Professional
+713,Post Graduate
+714,12th Pass
+715,12th Pass
+716,10th Pass
+717,Post Graduate
+718,Graduate
+719,Graduate
+720,12th Pass
+721,Post Graduate
+722,Post Graduate
+723,Others
+724,Graduate
+725,Graduate
+726,Graduate
+727,Graduate
+728,Post Graduate
+729,Post Graduate
+730,Graduate
+731,Graduate Professional
+732,Graduate
+733,Post Graduate
+734,Post Graduate
+735,Graduate
+736,Doctorate
+737,Post Graduate
+738,Post Graduate
+739,Graduate
+740,8th Pass
+741,Post Graduate
+742,Graduate
+743,Post Graduate
+744,Post Graduate
+745,10th Pass
+746,Graduate Professional
+747,12th Pass
+748,Graduate Professional
+749,Post Graduate
+750,Graduate
+751,Post Graduate
+752,Graduate
+753,Graduate Professional
+754,12th Pass
+755,12th Pass
+756,12th Pass
+757,Graduate
+758,10th Pass
+759,Graduate
+760,10th Pass
+761,8th Pass
+762,Graduate
+763,Graduate Professional
+764,Graduate
+765,10th Pass
+766,Post Graduate
+767,Post Graduate
+768,Graduate
+769,Graduate
+770,12th Pass
+771,10th Pass
+772,Graduate Professional
+773,10th Pass
+774,Post Graduate
+775,Graduate Professional
+776,Graduate
+777,Graduate
+778,10th Pass
+779,Post Graduate
+780,Post Graduate
+781,Post Graduate
+782,Graduate
+783,Graduate
+784,Post Graduate
+785,Graduate
+786,Graduate
+787,Graduate Professional
+788,Graduate
+789,Post Graduate
+790,8th Pass
+791,Graduate
+792,Graduate
+793,Graduate
+794,Graduate
+795,Graduate
+796,12th Pass
+797,Post Graduate
+798,12th Pass
+799,Graduate
+800,Graduate Professional
+801,12th Pass
+802,10th Pass
+803,12th Pass
+804,Graduate Professional
+805,Post Graduate
+806,12th Pass
+807,Graduate
+808,Graduate Professional
+809,Graduate
+810,Graduate
+811,12th Pass
+812,Post Graduate
+813,Graduate Professional
+814,Graduate
+815,12th Pass
+816,8th Pass
+817,12th Pass
+818,Graduate Professional
+819,Post Graduate
+820,Graduate Professional
+821,Graduate
+822,12th Pass
+823,10th Pass
+824,Post Graduate
+825,Graduate Professional
+826,12th Pass
+827,Others
+828,Graduate
+829,Post Graduate
+830,Graduate
+831,Graduate
+832,Others
+833,Graduate
+834,Doctorate
+835,Graduate
+836,Post Graduate
+837,Graduate Professional
+838,Post Graduate
+839,Post Graduate
+840,Post Graduate
+841,Graduate
+842,12th Pass
+843,10th Pass
+844,Graduate Professional
+845,Graduate Professional
+846,12th Pass
+847,Graduate
+848,Graduate Professional
+849,Graduate
+850,Post Graduate
+851,Post Graduate
+852,Graduate
+853,12th Pass
+854,Post Graduate
+855,Graduate
+856,Graduate
+857,Graduate
+858,Post Graduate
+859,Graduate
+860,10th Pass
+861,Graduate
+862,12th Pass
+863,Post Graduate
+864,Graduate Professional
+865,Others
+866,Graduate Professional
+867,10th Pass
+868,Graduate
+869,10th Pass
+870,12th Pass
+871,10th Pass
+872,Graduate
+873,12th Pass
+874,Post Graduate
+875,Graduate
+876,10th Pass
+877,12th Pass
+878,Graduate Professional
+879,12th Pass
+880,Graduate
+881,Graduate Professional
+882,12th Pass
+883,8th Pass
+884,Graduate Professional
+885,Graduate Professional
+886,Post Graduate
+887,12th Pass
+888,Graduate Professional
+889,Graduate
+890,12th Pass
+891,12th Pass
+892,Post Graduate
+893,Post Graduate
+894,Post Graduate
+895,Graduate
+896,12th Pass
+897,Graduate
+898,10th Pass
+899,Graduate
+900,8th Pass
+901,Graduate
+902,Post Graduate
+903,10th Pass
+904,Graduate
+905,Graduate
+906,Post Graduate
+907,Graduate
+908,Literate
+909,Others
+910,10th Pass
+911,Graduate
+912,Graduate
+913,Graduate
+914,10th Pass
+915,Graduate
+916,12th Pass
+917,Post Graduate
+918,Post Graduate
+919,Graduate Professional
+920,Graduate
+921,12th Pass
+922,Graduate
+923,Post Graduate
+924,Post Graduate
+925,10th Pass
+926,Post Graduate
+927,Post Graduate
+928,12th Pass
+929,Graduate
+930,Post Graduate
+931,Post Graduate
+932,Graduate
+933,12th Pass
+934,Graduate
+935,Graduate Professional
+936,Graduate
+937,10th Pass
+938,Graduate Professional
+939,12th Pass
+940,12th Pass
+941,Graduate
+942,Graduate
+943,Post Graduate
+944,8th Pass
+945,Graduate
+946,12th Pass
+947,Graduate Professional
+948,8th Pass
+949,10th Pass
+950,Post Graduate
+951,Graduate Professional
+952,Graduate Professional
+953,Graduate
+954,Graduate
+955,Others
+956,10th Pass
+957,Graduate
+958,Graduate
+959,Graduate
+960,Graduate Professional
+961,Post Graduate
+962,Graduate
+963,Post Graduate
+964,Graduate Professional
+965,Graduate Professional
+966,Graduate Professional
+967,Graduate
+968,8th Pass
+969,Graduate
+970,Graduate
+971,12th Pass
+972,10th Pass
+973,12th Pass
+974,Doctorate
+975,Graduate Professional
+976,Graduate
+977,12th Pass
+978,Graduate
+979,Graduate Professional
+980,Post Graduate
+981,Post Graduate
+982,Post Graduate
+983,Graduate Professional
+984,Graduate
+985,Graduate
+986,Graduate
+987,Post Graduate
+988,Graduate
+989,Graduate
+990,Post Graduate
+991,Post Graduate
+992,Post Graduate
+993,12th Pass
+994,10th Pass
+995,Graduate Professional
+996,10th Pass
+997,Graduate
+998,Post Graduate
+999,12th Pass
+1000,Graduate
+1001,Post Graduate
+1002,Graduate
+1003,Graduate Professional
+1004,12th Pass
+1005,8th Pass
+1006,Graduate
+1007,Graduate Professional
+1008,Graduate
+1009,12th Pass
+1010,Post Graduate
+1011,Graduate Professional
+1012,Post Graduate
+1013,10th Pass
+1014,12th Pass
+1015,Graduate
+1016,Graduate
+1017,Post Graduate
+1018,12th Pass
+1019,Graduate Professional
+1020,Graduate
+1021,Graduate Professional
+1022,Graduate
+1023,Graduate Professional
+1024,Graduate
+1025,12th Pass
+1026,8th Pass
+1027,Graduate
+1028,Graduate
+1029,Graduate
+1030,Graduate
+1031,Graduate
+1032,Post Graduate
+1033,Graduate
+1034,8th Pass
+1035,Graduate
+1036,Graduate
+1037,Graduate Professional
+1038,Graduate
+1039,Graduate
+1040,Post Graduate
+1041,Post Graduate
+1042,Graduate Professional
+1043,12th Pass
+1044,12th Pass
+1045,Post Graduate
+1046,Graduate
+1047,Graduate Professional
+1048,12th Pass
+1049,8th Pass
+1050,Literate
+1051,12th Pass
+1052,Post Graduate
+1053,Graduate
+1054,Post Graduate
+1055,Graduate
+1056,Graduate Professional
+1057,12th Pass
+1058,12th Pass
+1059,12th Pass
+1060,12th Pass
+1061,Graduate
+1062,Graduate
+1063,12th Pass
+1064,Post Graduate
+1065,12th Pass
+1066,12th Pass
+1067,Graduate
+1068,Graduate Professional
+1069,Graduate
+1070,Graduate
+1071,Post Graduate
+1072,Graduate
+1073,Graduate Professional
+1074,Graduate
+1075,12th Pass
+1076,Graduate
+1077,Graduate
+1078,Graduate Professional
+1079,Graduate
+1080,12th Pass
+1081,Post Graduate
+1082,12th Pass
+1083,Post Graduate
+1084,12th Pass
+1085,12th Pass
+1086,Graduate Professional
+1087,Graduate Professional
+1088,12th Pass
+1089,Graduate
+1090,12th Pass
+1091,10th Pass
+1092,Graduate
+1093,10th Pass
+1094,Others
+1095,Post Graduate
+1096,Post Graduate
+1097,Graduate
+1098,Graduate Professional
+1099,12th Pass
+1100,8th Pass
+1101,12th Pass
+1102,Graduate
+1103,Post Graduate
+1104,Graduate Professional
+1105,Graduate
+1106,12th Pass
+1107,Graduate
+1108,Post Graduate
+1109,Graduate
+1110,12th Pass
+1111,Graduate Professional
+1112,Graduate
+1113,Graduate Professional
+1114,Graduate Professional
+1115,12th Pass
+1116,Graduate
+1117,Graduate
+1118,12th Pass
+1119,12th Pass
+1120,Graduate Professional
+1121,Graduate Professional
+1122,8th Pass
+1123,Post Graduate
+1124,Graduate Professional
+1125,Post Graduate
+1126,Graduate Professional
+1127,Graduate Professional
+1128,Graduate
+1129,Graduate
+1130,Graduate Professional
+1131,Graduate
+1132,Graduate
+1133,Post Graduate
+1134,Graduate
+1135,12th Pass
+1136,Graduate
+1137,12th Pass
+1138,Graduate Professional
+1139,Post Graduate
+1140,Post Graduate
+1141,12th Pass
+1142,Graduate
+1143,Graduate
+1144,Graduate
+1145,12th Pass
+1146,Graduate Professional
+1147,Graduate
+1148,Graduate
+1149,8th Pass
+1150,Graduate
+1151,Graduate
+1152,Graduate
+1153,Graduate
+1154,Graduate Professional
+1155,12th Pass
+1156,Graduate
+1157,Graduate
+1158,Graduate Professional
+1159,Graduate
+1160,Post Graduate
+1161,Graduate
+1162,10th Pass
+1163,Graduate Professional
+1164,Post Graduate
+1165,Graduate Professional
+1166,8th Pass
+1167,10th Pass
+1168,Graduate
+1169,Post Graduate
+1170,12th Pass
+1171,Graduate Professional
+1172,Post Graduate
+1173,Graduate Professional
+1174,Graduate Professional
+1175,8th Pass
+1176,Graduate
+1177,Doctorate
+1178,12th Pass
+1179,Post Graduate
+1180,Graduate
+1181,Graduate
+1182,Graduate
+1183,Graduate
+1184,Graduate
+1185,Graduate Professional
+1186,Graduate
+1187,12th Pass
+1188,Graduate
+1189,Graduate
+1190,Graduate
+1191,12th Pass
+1192,Graduate Professional
+1193,Post Graduate
+1194,Post Graduate
+1195,10th Pass
+1196,10th Pass
+1197,Graduate
+1198,Graduate
+1199,12th Pass
+1200,Graduate
+1201,10th Pass
+1202,12th Pass
+1203,12th Pass
+1204,Post Graduate
+1205,Graduate
+1206,Graduate
+1207,Others
+1208,Graduate
+1209,Graduate
+1210,Graduate
+1211,Post Graduate
+1212,10th Pass
+1213,12th Pass
+1214,10th Pass
+1215,Graduate Professional
+1216,Graduate Professional
+1217,Graduate
+1218,Graduate Professional
+1219,Post Graduate
+1220,Graduate
+1221,Post Graduate
+1222,Post Graduate
+1223,Post Graduate
+1224,12th Pass
+1225,Graduate
+1226,12th Pass
+1227,Post Graduate
+1228,Graduate Professional
+1229,Graduate Professional
+1230,12th Pass
+1231,10th Pass
+1232,Post Graduate
+1233,Post Graduate
+1234,Post Graduate
+1235,Graduate Professional
+1236,Graduate
+1237,Graduate
+1238,Graduate
+1239,Graduate Professional
+1240,Graduate Professional
+1241,Post Graduate
+1242,12th Pass
+1243,Graduate
+1244,Graduate
+1245,Others
+1246,12th Pass
+1247,Graduate Professional
+1248,Post Graduate
+1249,Post Graduate
+1250,Graduate Professional
+1251,Graduate Professional
+1252,Graduate
+1253,Graduate
+1254,12th Pass
+1255,12th Pass
+1256,Post Graduate
+1257,Graduate
+1258,Post Graduate
+1259,12th Pass
+1260,Post Graduate
+1261,Graduate Professional
+1262,Post Graduate
+1263,Post Graduate
+1264,Graduate
+1265,12th Pass
+1266,12th Pass
+1267,Others
+1268,12th Pass
+1269,12th Pass
+1270,Graduate
+1271,Graduate
+1272,12th Pass
+1273,12th Pass
+1274,10th Pass
+1275,Graduate
+1276,Graduate
+1277,10th Pass
+1278,Graduate Professional
+1279,Graduate
+1280,Graduate
+1281,Literate
+1282,Graduate
+1283,10th Pass
+1284,Graduate Professional
+1285,12th Pass
+1286,Graduate
+1287,Post Graduate
+1288,Graduate
+1289,Others
+1290,Graduate Professional
+1291,12th Pass
+1292,Graduate
+1293,Graduate
+1294,Post Graduate
+1295,Graduate
+1296,12th Pass
+1297,Graduate
+1298,Post Graduate
+1299,Doctorate
+1300,12th Pass
+1301,Graduate Professional
+1302,Graduate
+1303,Post Graduate
+1304,Graduate
+1305,12th Pass
+1306,Post Graduate
+1307,Graduate Professional
+1308,Post Graduate
+1309,Post Graduate
+1310,12th Pass
+1311,Graduate
+1312,Graduate
+1313,Post Graduate
+1314,10th Pass
+1315,Graduate
+1316,Graduate
+1317,12th Pass
+1318,Graduate
+1319,10th Pass
+1320,12th Pass
+1321,10th Pass
+1322,Graduate
+1323,Graduate
+1324,Graduate
+1325,Graduate
+1326,Graduate
+1327,10th Pass
+1328,12th Pass
+1329,Graduate
+1330,Graduate
+1331,10th Pass
+1332,12th Pass
+1333,Post Graduate
+1334,Post Graduate
+1335,12th Pass
+1336,Graduate Professional
+1337,10th Pass
+1338,12th Pass
+1339,Graduate
+1340,Graduate
+1341,Graduate
+1342,10th Pass
+1343,Graduate
+1344,Graduate Professional
+1345,Graduate
+1346,Graduate
+1347,Graduate
+1348,Post Graduate
+1349,12th Pass
+1350,Post Graduate
+1351,Graduate
+1352,Post Graduate
+1353,Graduate
+1354,Graduate
+1355,Post Graduate
+1356,Doctorate
+1357,Post Graduate
+1358,Graduate Professional
+1359,Graduate Professional
+1360,Post Graduate
+1361,Graduate Professional
+1362,Graduate Professional
+1363,Graduate Professional
+1364,12th Pass
+1365,Graduate
+1366,Post Graduate
+1367,12th Pass
+1368,Doctorate
+1369,Graduate
+1370,Post Graduate
+1371,Post Graduate
+1372,Doctorate
+1373,Graduate Professional
